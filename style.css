@@ -3,3 +3,30 @@
     padding: 0;
     border: 0;
 }
+html,body{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    color:red;
+}
+#alles{
+    height: 100%;
+    width: 100%;
+}
+#uberS{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    width: 20%;
+    height: 10%;
+    cursor: cell;
+    transition: top 2s linear, left 2s linear;
+}
+#tief{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
