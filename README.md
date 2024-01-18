@@ -27,4 +27,4 @@ Hope you enjoy!!! >U<
 - [ ] Fix Bugs
 
 ## Bugs:
-- [ ] No Bugs yet 🎉 😄
+- [x] No Bugs yet 🎉 😄
